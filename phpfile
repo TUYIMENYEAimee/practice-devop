@@ -1,0 +1,4 @@
+<?php
+//print heloo word
+echo"hello word";//yaphesi comments
+?>
